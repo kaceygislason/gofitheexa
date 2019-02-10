@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shuigocu.grassrootsmapping.org/sitemap.xml
